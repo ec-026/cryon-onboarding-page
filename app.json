@@ -18,9 +18,11 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.cryon.cryonapp",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
