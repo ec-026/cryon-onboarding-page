@@ -70,5 +70,5 @@ A step-by-step series of examples that tell you how to get a development environ
 
 ## Authors
 
-- **Tejas Singh** - *Initial work* - [Linkedin](https://www.linkedin.com/in/tejassingh026/)
+- **Tejas Singh** - [Linkedin](https://www.linkedin.com/in/tejassingh026/)
 
