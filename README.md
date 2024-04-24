@@ -9,12 +9,17 @@ Cryon is a mobile application designed to connect fans and artists in a dynamic 
 - **Secure Authentication**: Incorporates phone number and email-based sign-in with OTP verification for security.
 - **Inclusive Design Practices**: The implementation of inclusive sign-up options demonstrates a commitment to accessibility and user-centric design, catering to a diverse user base.
 ## Project UI
+
 The Cryon user interface is designed to be user-friendly and intuitive, encouraging easy navigation and interaction:
-<img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/61a7c963-495b-4a20-9003-8e6d01c4cf61" width="170" alt="Image 1">
-<img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/b7174bef-c29f-4c1a-994e-4e3271f903c7" width="170" alt="Image 2">
-<img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/639aa96d-721b-48fa-890e-be746ef99479" width="170" alt="Image 3">
-<img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/aae979cd-c0fe-4c1d-9535-c06b2b1825c0" width="170" alt="Image 4">
-<img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/9eff9f15-cf0a-458a-9057-cbe27bf820ad" width="170" alt="Image 5">
+
+<div align="center">
+  <img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/61a7c963-495b-4a20-9003-8e6d01c4cf61" width="170" alt="Image 1">
+  <img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/b7174bef-c29f-4c1a-994e-4e3271f903c7" width="170" alt="Image 2">
+  <img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/639aa96d-721b-48fa-890e-be746ef99479" width="170" alt="Image 3">
+  <img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/aae979cd-c0fe-4c1d-9535-c06b2b1825c0" width="170" alt="Image 4">
+  <img src="https://github.com/ec-026/cryon-onboarding-page/assets/95495584/9eff9f15-cf0a-458a-9057-cbe27bf820ad" width="170" alt="Image 5">
+</div>
+
 
 ## Getting Started
 
