@@ -7,13 +7,13 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBZmaHaY_Od1lfrKT6jGuFj9pxRnuZBKcA",
-  authDomain: "cryon-81105.firebaseapp.com",
-  projectId: "cryon-81105",
-  storageBucket: "cryon-81105.appspot.com",
-  messagingSenderId: "863990210655",
-  appId: "1:863990210655:web:afc918fe746577dc8b7bea",
-  measurementId: "G-78W74ER4R1"
+  apiKey: "XXXXXXXX",
+  authDomain: "XXXXXXXX",
+  projectId: "XXXXXXXX",
+  storageBucket: "XXXXXXXX",
+  messagingSenderId: "XXXXXXXX",
+  appId: "XXXXXXXX",
+  measurementId: "XXXXXXXX"
 };
 
 // Initialize Firebase
